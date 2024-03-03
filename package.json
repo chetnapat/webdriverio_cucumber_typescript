@@ -1,0 +1,17 @@
+{
+  "name": "webdriveriocucumbertypescript",
+  "version": "1.0.0",
+  "description": "Web driverio cucumber assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webdriverio",
+    "typescript",
+    "cucumber",
+    "nodejs"
+  ],
+  "author": "Chetana Patil",
+  "license": "ISC"
+}
